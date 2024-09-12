@@ -1,0 +1,7 @@
+	REACT
+
+creating react app	=	npx create-react-app appname
+
+t run	=	npm start
+
+to create a component	=	rafce
